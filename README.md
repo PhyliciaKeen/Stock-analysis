@@ -1,1 +1,11 @@
 # Stock-analysis
+## Overview of Project
+The purpose of this analysis was to help Steve prepare a workbook to present to his parents. We made an analysis first for the stock DQ, where Steve’s parents invested most of their money. We were able to see what the Total Daily Volume and percent of Return it made in 2018. Steve didn’t want to stop there but wanted to present an analysis of all the stocks for 2018. We helped Steve put together an analysis for all the stocks and refactored the analysis to not just pinpoint one year but have an analysis on multiple years.  
+
+## Results
+Based off the tables in the resource folder for 2017 and 2018. We can see that there were more positive returns in 2017. To make is simpler for the eye to see we were able to format the analysis to color code this by using green for positive and red for negative. The DQ stock did well in 2017 with the percent of return 199% compared to 2018, where the stock lost money to -63%. After seeing the returns from both years, it would not be smart for Steve’s parents to only rely on just one stock. It would be beneficial to them to diversify their stock options. If they had their money spread out amongst the different options. They would have still lost some money due to the market majority negative but there were still two stock options that performed great. Those two stock options finished the year with both over 80% return on investments. We can gather that Steve parents would not have lost as much money
+
+After creating an analysis of both tables through our refactor. It was apparent that the execution times improved. Prior to the refactor, we were receiving an execution time of 2.5 seconds. After the refactor, the execution time improved to .2 seconds! 
+
+# Summary 
+In conclusion, it was evident that there are advantages of refactoring code. A huge advantage is making the code more efficient. We seen this display in our analysis. The disadvantage to refactoring code, is that; it is not always your code you have to refactor. Skimming through code created from another individual to debug and refactor for better efficiency, can also take time. I firsthand felt the time it took to refactor the previous code we wrote. I also felt elated once it was refactored correctly from the original code and how important it is to always improve the execution of our code. 
